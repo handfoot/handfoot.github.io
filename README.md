@@ -1,6 +1,6 @@
 # Handfoot Blog
 
-[!handfoot](img/handfoot.jpeg)
+![handfoot](/img/handfoot.jpeg)
 
 ## Blog posts
 
