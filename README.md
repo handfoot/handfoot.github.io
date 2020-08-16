@@ -1,6 +1,6 @@
 # Handfoot Blog
 
-This is a personal blog for handfoot.
+[!handfoot](img/handfoot.jpeg)
 
 ## Blog posts
 
